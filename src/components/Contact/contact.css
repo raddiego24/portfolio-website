@@ -38,7 +38,6 @@
     width: 100vw;
     max-width: 80%;
     text-align: left;
-    color: white;
 }
 
 .contactBar {
@@ -47,7 +46,6 @@
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
     background: rgb(50, 50, 50);
-    width: 71.5vw;
 }
 
 .contactBarImg {
