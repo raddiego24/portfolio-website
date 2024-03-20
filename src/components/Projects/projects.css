@@ -102,8 +102,8 @@
     border-bottom: 3px solid yellow;
 }
 .flip-box-back-in>h3 {
-    /* font-size: 14px; */
-    font-size: 0.9vw;
+    font-size: 12px;
+    /* font-size:1.5vh; */
     margin-bottom: 7.5px;
     color:white;
     text-align: left;
@@ -155,7 +155,7 @@
 }
 
 @media screen and (max-width:585px) {
-    /* .projectsImg {
-        height: 50vw;
-    } */
+    .flip-box-back-in>h3 {
+        font-size: 10px;
+    }
 }
