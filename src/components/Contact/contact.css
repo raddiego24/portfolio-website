@@ -79,3 +79,9 @@
         font-size: 1.25rem;
     }
 }
+
+@media screen and (max-width:440px) {
+    .contactBarText>p {
+        font-size: 0.4rem;
+    }
+}

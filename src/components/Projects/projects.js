@@ -42,7 +42,7 @@ const Projects = () => {
             </div>
             <div className='flip-box-back'>
               <div className='flip-box-back-in'>
-                <h4>Caregiver Navigator</h4>
+                <h5>Caregiver Navigator</h5>
                 <h3>• Developed a web application dedicated to supporting dementia patients, fostering connections between patients and caregivers to essential medical counseling and education.</h3>
                 <h3>• Led the UI design process and had a significant role in front-end development, skillfully integrating medical information on dementia for user-friendly consumption.</h3>
                 <h3>• Collaborated with project partner to achieve a fully translated version of the site in Arabic.</h3>
