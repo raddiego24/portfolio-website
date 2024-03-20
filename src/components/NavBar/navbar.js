@@ -10,7 +10,6 @@ const Navbar = () => {
   return (
     <nav className="navbar">
         {/* <img src={logo} alt="logo" className='logo' /> */}
-        {/* <span className='logoText'>RA</span> */}
         <Link to='intro' smooth={true} offset={-100} duration={500} className="logoText">RA</Link>
         <div className="desktopMenu">
             <Link activeClass='active' to='intro' spy={true} smooth={true} offset={-100} duration={500} className="desktopMenuListItem">Home</Link>

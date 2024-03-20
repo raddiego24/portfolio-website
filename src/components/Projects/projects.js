@@ -10,16 +10,6 @@ const Projects = () => {
     <section id='projects'>
         <h2 className='projectsTitle'>My Projects</h2>
         <span className='projectsDesc'>I thrive in a high-paced team environment, always striving to bring the best out of myself and my peers. I excel in projects using Java, Javascript, and Swift, executing demanding projects with efficiency, solid visual user interfaces, and a friction-free user experience.</span>
-        {/* <div className='flip-box'>
-          <div className='flip-box-front'>
-            <img src={Portfolio1} alt="" />
-          </div>
-          <div className='flip-box-back'>
-            <div className='flip-box-back-in'>
-              <h4>Project Name</h4>
-            </div>
-          </div>
-        </div> */}
         <div className='projectsImgs'>
           <div className='flip-box'>
             <div className='flip-box-front'>
@@ -74,12 +64,6 @@ const Projects = () => {
               </div>
             </div>
           </div>
-            {/* <img src={Portfolio1} alt="" className="projectsImg" />
-            <img src={Portfolio2} alt="" className="projectsImg" />
-            <img src={Portfolio3} alt="" className="projectsImg" />
-            <img src={Portfolio4} alt="" className="projectsImg" />
-            <img src={Portfolio5} alt="" className="projectsImg" />
-            <img src={Portfolio6} alt="" className="projectsImg" /> */}
         </div>
         {/* <button className='projectsBtn'>See More</button> */}
     </section>

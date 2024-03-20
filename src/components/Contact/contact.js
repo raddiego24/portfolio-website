@@ -8,17 +8,7 @@ import phone from '../../assets/phoneLogo.png'
 const Contact = () => {
   return (
     <section id='contact'>
-        {/* <h2 className='contactTitle'>My Contacts</h2>
-        <div className='listOfContacts'>
-          <img src={phone} alt="phone" className='phoneLogo' />
-          <span className='contactDesc'>Phone: (510) 421-0791 <br/></span>
-          <img src={gmail} alt="gmail" className='gmailLogo' />
-          <span className='contactDesc'>Email: ryan@addiego.com <br/></span>
-          <img src={linkedIn} alt="linkedIn" className='linkedInLogo' />
-          <span className='contactDesc'>LinkedIn: https://www.linkedin.com/in/ryan-addiego/ <br/></span>
-        </div> */}
-
-<span className='contactTitle'>My Contacts</span>
+        <span className='contactTitle'>My Contacts</span>
         <div className='contactBars'>
             <div className='contactBar'>
                 <img src={phone} alt="" className="contactBarImg" />
@@ -44,7 +34,6 @@ const Contact = () => {
                 </div>
             </a>
         </div>
-
     </section>
   )
 }

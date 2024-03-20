@@ -1,11 +1,4 @@
 #resume {
-    /* height: calc(100vh - 4rem);
-    width: 100vw;
-    max-width: 75rem;
-    margin: 0 auto;
-    overflow: hidden;
-    position: relative; */
-
     overflow: hidden;
     width: 100vw;
     max-width: 65rem;
@@ -42,7 +35,6 @@
 
 @media screen and (max-width:720px) {
     #resume {
-        /* width: 50vw; */
         display:flex;
         object-fit:cover;
     }
