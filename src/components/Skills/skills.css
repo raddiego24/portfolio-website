@@ -47,7 +47,7 @@
     justify-content: center;
     text-align: center;
     align-items: center;
-    margin-top: 25%;
+    /* margin-top: 25%; */
 }
 
 .skillBarText>p {
@@ -68,6 +68,7 @@
     .skillBarImg {
         height: 2.25rem;
         width: 2.25rem;
+        margin-top: 25%;
     }
     .skillBarText>h {
         font-size: 5vw;
