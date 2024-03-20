@@ -9,7 +9,7 @@ const Projects = () => {
   return (
     <section id='projects'>
         <h2 className='projectsTitle'>My Projects</h2>
-        <span className='projectsDesc'>I thrive in a high-paced team environment, always striving to bring the best out of myself and my peers. In addition to my no-task-too-small attitude and team-focused mentality, I excel in projects using Java, Javascript, and Swift, executing demanding projects with efficiency, solid visual user interfaces, and a friction-free user experience.</span>
+        <span className='projectsDesc'>I thrive in a high-paced team environment, always striving to bring the best out of myself and my peers. I excel in projects using Java, Javascript, and Swift, executing demanding projects with efficiency, solid visual user interfaces, and a friction-free user experience.</span>
         {/* <div className='flip-box'>
           <div className='flip-box-front'>
             <img src={Portfolio1} alt="" />

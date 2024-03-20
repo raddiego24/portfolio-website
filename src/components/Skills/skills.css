@@ -44,6 +44,10 @@
     height: 3rem;
     width: 3rem;
     margin-right: 2rem;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 25%;
 }
 
 .skillBarText>p {
