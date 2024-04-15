@@ -1,7 +1,10 @@
 import React from 'react';
 import './resume.css';
-import ryanResume from '../../assets/Ryan_Resume_March_2024.png';
-import ryanResumePDF from '../../Ryan_Addiego_Resume.pdf'
+// import ryanResume from '../../assets/Ryan_Resume_March_2024.png';
+// import ryanResumePDF from '../../Ryan_Addiego_Resume.pdf'
+
+import ryanResume from '../../assets/‎Ryan_Resume_April_2024.png';
+import ryanResumePDF from '../../assets/Ryan_Resume_April_2024.pdf'
 
 const Resume = () => {
 
